@@ -1,0 +1,28 @@
+{
+  "name": "search_count",
+  "version": "1.0.0",
+  "description": "Binary search algorithm. Includes Jasmine tests",
+  "main": "src/search.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incometrader/search-prototype-andela.git"
+  },
+  "keywords": [
+    "binary",
+    "search",
+    "index",
+    "count"
+  ],
+  "author": "Ignatius Ukwuoma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incometrader/search-prototype-andela/issues"
+  },
+  "homepage": "https://github.com/incometrader/search-prototype-andela#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
